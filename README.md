@@ -1,0 +1,5 @@
+- 👋 Hello World, I’m Thanh Ho
+- 🇻🇳 I was born and raised in Vietnam
+- 🇳🇱 I’m living in Amsterdam, the Netherlands with my beloved husband 👬🏠
+- 🌱 My next learning goals: 3JS, React Native, TypeScript, .NET, PHP, Python
+- 👀 Let see my Portfolio https://hovinhthanh7893.github.io/portfolio/
