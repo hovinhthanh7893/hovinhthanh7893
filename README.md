@@ -6,10 +6,10 @@
 - 🤝 Co-Founder @[Jockey & Horse](https://jockeyandhorse.com)
 - 👉 [My Portfolio](https://hovinhthanh7893.github.io/portfolio/)
 
-## 💻 Skills
+## 💻  Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,vue,pinia,sass,threejs,react,redux,netlify,py,fastapi,mongodb,azure,visualstudio,cs,unity,lua,blender,ai,ps,pr,figma,xd)](https://skillicons.dev)
 
-## 💼 My services
+## 💼  My services
 
 
 
