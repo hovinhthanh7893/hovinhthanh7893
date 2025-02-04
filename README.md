@@ -3,7 +3,7 @@
 - 🇻🇳 I was born and raised in Vietnam
 - 🇳🇱 Living in Amsterdam with my beloved husband 👬🏠
 - 🐕‍🦺 Kaala is our lovely girl @[ToyPoodle_Kaala](https://www.instagram.com/toypoodle_kaala/)
-- 🤝 Co-Founder of @[Jockey & Horse](https://jockeyandhorse.com)
+- 🤝 Co-Founder of [Jockey & Horse](https://jockeyandhorse.com) Company
 - 👉 [My Portfolio](https://hovinhthanh7893.github.io/portfolio/)
 
 ## 💻  Skills
