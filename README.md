@@ -14,6 +14,6 @@
 
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C700&width=435&lines=Stay+curious!+Never+stop+learning!;Work+hard!+Never+stop+creating!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7C700&width=435&lines=Stay+curious!+Never+stop+learning!;Work+hard!+Never+stop+creating!)](https://git.io/typing-svg)
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@hovinhthanh7893-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
