@@ -1,6 +1,6 @@
 # 👋 Hello World, I’m Thanh Ho
 
-- 🇻🇳 I was born and raised in Vietnam
+- 🇻🇳 I was born and grew up in Vietnam
 - 🇳🇱 Living in Amsterdam with my beloved husband 👬🏠
 - 🐕‍🦺 Kaala is our lovely girl @[ToyPoodle_Kaala](https://www.instagram.com/toypoodle_kaala/)
 - 🤝 Co-Founder of [Jockey & Horse](https://jockeyandhorse.com) Company
